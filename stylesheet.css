@@ -1,0 +1,385 @@
+.try {
+  width: 0px;
+  height: 310px;
+  margin-top: -270px;
+  margin-left: 430px;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 60%;
+  margin-bottom: 100px;
+  justify-content: center;
+  background-image: url(bg.jpg);
+  background-size: 100% 16.6%;
+}
+body header .fleche {
+  width: 40px;
+  height: 40px;
+  color: white;
+  margin-left: 50%;
+}
+body .p1 {
+  color: white;
+  font-size: 15px;
+  margin-left: 10%;
+}
+body section .nav {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  background-color: hsla(0, 0%, 100%, 0.6);
+  height: 40px;
+  width: 890px;
+  margin-top: 15px;
+}
+body section .pa {
+  background-color: white;
+  padding: 13px;
+  margin-top: -1px;
+  align-self: start;
+}
+body section .ca {
+  color: whitesmoke;
+}
+body section .lg {
+  margin-top: -25px;
+  margin-left: 88%;
+  pad: 25px;
+}
+body .section {
+  margin-top: 10px;
+  background-color: white;
+  margin-top: 2px;
+  width: 890px;
+}
+body .date {
+  margin-top: -40px;
+  display: flexbox;
+}
+body .phd {
+  align-self: center;
+  margin-top: 40px;
+  padding-top: 40 px;
+  margin-left: 45%;
+  margin-bottom: -10px;
+}
+body .les {
+  justify-content: center;
+  margin-top: 25px;
+}
+body .ligne {
+  width: 300px;
+  margin-left: 60%;
+  margin-top: -10px;
+}
+body .ligne1 {
+  margin-right: 60%;
+  margin-top: 0px;
+  width: 300px;
+}
+body .saut {
+  justify-content: center;
+  height: 400px;
+  width: 700px;
+  margin-left: 10%;
+}
+body .bc, body .nb {
+  margin-left: 45%;
+  padding: 12px;
+  font-size: 20px;
+}
+body .nc {
+  width: 150px;
+  padding: 12px;
+  font-size: 20px;
+  justify-self: center;
+}
+body .deux {
+  display: grid;
+  margin-top: -10px;
+}
+body .sn {
+  margin-left: 150px;
+}
+
+.lor {
+  margin-left: 20%;
+  text-align: center;
+  justify-content: center;
+  width: 60%;
+  font-size: 15px;
+  color: rgb(127, 129, 129);
+}
+
+.la {
+  color: white;
+  font-size: 2.5em;
+  margin-right: -50px;
+  text-align: center;
+}
+
+.deux {
+  margin-bottom: -10px;
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
+.deux .titre1 {
+  margin-top: 0px;
+  justify-self: center;
+  margin-left: 0px;
+  width: 150px;
+  text-align: center;
+}
+.deux .img1 {
+  margin-left: 11%;
+  width: 380px;
+  height: 200px;
+}
+.deux .pe1 {
+  display: grid;
+  text-align: justify;
+  width: 420px;
+  color: rgb(78, 84, 88);
+}
+.deux .pe1 .te1 {
+  margin-left: 20px;
+  margin-right: -15px;
+}
+.deux .class {
+  display: grid;
+  grid-column: 2/3;
+  margin-left: 180px;
+  margin-top: -458px;
+}
+.deux .titre2 {
+  margin-left: 120px;
+}
+.deux .int {
+  margin-top: -2px;
+  margin-left: 90px;
+}
+.deux .pe2 {
+  color: rgb(78, 84, 88);
+  display: grid;
+  text-align: justify;
+}
+
+.img2 {
+  grid-template-columns: 2/3;
+  width: 400px;
+  height: 200px;
+}
+
+.and {
+  text-align: center;
+  color: black;
+  font-size: 2em;
+}
+
+.unetout {
+  display: grid;
+  width: 890px;
+  margin-top: 20px;
+  background-color: hsl(208, 100%, 97%);
+  margin-bottom: 100px;
+}
+.unetout .right {
+  color: rgb(185, 189, 189);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 15px;
+  font-size: 15PX;
+}
+.unetout .right .case1 {
+  width: 300px;
+  height: 30px;
+}
+.unetout .right .case2 {
+  width: 300px;
+  height: 150px;
+}
+.unetout .fal {
+  color: rgb(185, 189, 189);
+  margin-left: 50%;
+  margin-top: -300px;
+}
+.unetout .pls {
+  width: 435px;
+  display: flex;
+}
+.unetout .tec {
+  margin-left: 100px;
+  padding: 20px;
+  width: 260px;
+  margin-top: -40px;
+}
+.unetout .adress {
+  margin-left: 100px;
+  padding: 20px;
+  margin-top: -40px;
+}
+.unetout .tec1 {
+  padding: 20px;
+  width: 260px;
+  margin-left: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.unetout .bh {
+  margin-right: 2px;
+}
+.unetout .pls {
+  width: 435px;
+}
+.unetout .tec {
+  margin-left: 100px;
+  padding: 20px;
+  width: 260px;
+  margin-top: -40px;
+}
+.unetout .adress {
+  margin-left: 100px;
+  padding: 20px;
+  margin-top: -40px;
+}
+.unetout .tec1 {
+  padding: 20px;
+  width: 260px;
+  margin-left: 0px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 850px) {
+  .and {
+    font-size: 1em;
+    justify-self: center;
+  }
+  .date1 {
+    display: flex;
+  }
+  .titre1 {
+    margin-right: 25%;
+  }
+  .titre2 {
+    margin-left: -20%;
+    justify-self: start;
+  }
+  .int {
+    margin-left: -20px;
+  }
+  header {
+    justify-content: center;
+  }
+  header .la {
+    font-size: 15px;
+    margin-left: -20px;
+  }
+  header .p1 {
+    text-align: center;
+  }
+  .grando {
+    margin-left: -25px;
+    justify-content: center;
+    width: 350px;
+  }
+  .grando .nav {
+    width: 350px;
+    height: 50px;
+    font-size: 12px;
+  }
+  .grando .lor {
+    width: 150px;
+    text-align: center;
+    justify-self: center;
+    margin-left: 10px;
+  }
+  .grando .lg {
+    display: none;
+  }
+  .grando .section {
+    margin-top: 20px;
+    width: 350px;
+  }
+  .grando .saut {
+    width: 300px;
+    height: 200px;
+  }
+  .grando .bc, .grando body .nb, body .grando .nb {
+    margin-left: 100px;
+    justify-items: baseline;
+  }
+  .grando .deux {
+    display: block;
+  }
+  .grando .img1 {
+    width: 250px;
+    height: 200px;
+    margin-right: 25px;
+  }
+  .grando .sn {
+    display: none;
+  }
+  .grando .class {
+    margin-top: 40px;
+    margin-left: 15px;
+  }
+  .grando .phd {
+    font-size: 0.9em;
+    margin-right: -10px;
+    margin-bottom: -5px;
+    margin-left: 109px;
+  }
+  .grando .ligne {
+    width: 90px;
+    margin-right: 10px;
+  }
+  .grando .ligne1 {
+    margin-left: 10px;
+    width: 90px;
+  }
+  .grando .img2 {
+    width: 250px;
+    height: 200px;
+    margin-left: 30px;
+  }
+  .grando .pe1 {
+    margin-left: 30px;
+    text-align: start;
+    width: 250px;
+  }
+  .grando .pe2 {
+    text-align: start;
+    width: 250px;
+    margin-left: 30px;
+  }
+  .grando .unetout {
+    width: 350px;
+  }
+  .grando .fal {
+    margin-top: 50px;
+    margin-left: 25px;
+  }
+  .grando .pls {
+    width: 348px;
+    margin-left: -25px;
+  }
+  .case1 {
+    width: 290px;
+    margin-left: 0px;
+  }
+  .case2 {
+    width: 290px;
+    margin-left: 0px;
+  }
+  .pa {
+    text-align: center;
+    font-size: 1em;
+  }
+  .ca {
+    text-align: center;
+    font-size: 1em;
+  }
+  .les {
+    margin-left: 25px;
+  }
+  .try {
+    display: none;
+  }
+}/*# sourceMappingURL=stylesheet.css.map */
